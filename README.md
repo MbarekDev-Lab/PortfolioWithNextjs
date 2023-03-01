@@ -30,7 +30,7 @@ Open your web browser and navigate to http://localhost:3000 .
 
 [You can check the MemoryGame live demo  through this link](https://memorygame-orpin.vercel.app/)
 
-[You can check the Tic-Tac-Toe live demo through this link](https://tic-tac-toe-three.vercel.app/)
+[You can check the Tic-Tac-Toe live demo through this link](https://tic-tac-toe-three-beta.vercel.app/)
 
 [You can check the StopWatch live demo through this link](https://myfirst-reactapp-deploy.vercel.app/)
 
