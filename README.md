@@ -26,4 +26,11 @@ Open your web browser and navigate to http://localhost:3000 .
 
 # Live Demo :
 
-[You can check the live demo through this link](https://portfolio-with-nextjs13.vercel.app/)
+[You can check the live PortfolioUI demo through this link](https://portfolio-with-nextjs13.vercel.app/)
+
+[You can check the MemoryGame live demo  through this link](https://memorygame-orpin.vercel.app/)
+
+[You can check the StopWatch live demo through this link](https://myfirst-reactapp-deploy.vercel.app/)
+
+
+
